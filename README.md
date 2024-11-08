@@ -13,7 +13,7 @@
 
 ### Everything that below are used in my projects.
 
-<strong align='center'>Frontend</strong>
+<h3 align="center">Frontend</h3>
 
 * Typescript
 * React JS
@@ -21,7 +21,7 @@
 * Redux
 * Websocket
 
-<strong align='center'>Backend</strong>
+<h3 align="center">Backend</h3>
 
 C# NET:
 * Boost
@@ -34,7 +34,7 @@ Node JS:
 SQL:
 * Postgres
 
-<strong align='center'>Data Science And AI</strong>
+<h3 align='center'>Data Science And AI</h3>
 
 * OpenCV
 * TensorFlow
@@ -44,14 +44,14 @@ SQL:
 * XGBoost
 * Dear PyGui
 
-<strong align='center'>Languages</strong>
+<h3 align='center'>Languages</h3>
 
 * Russian (native)
 * English (C1)
 * German (B2)
 * Japanese (N3)
 
-<strong align='center'>Main Projects</strong>
+<h3 align='center'>Main Projects</h3>
 
 * Guides Typescript
 * Snake Learns To Play By Itself
