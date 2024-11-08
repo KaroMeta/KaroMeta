@@ -13,17 +13,29 @@
 
 ### Everything that below are used in my projects.
 
-<strong>Web</strong>
+### Frontend
 
 * Typescript
 * React JS
 * React Icons
 * Redux
+* Websocket
+
+### Backend
+
+Languages:
+* C# .NET
+* Boost
+
+* Typescript
+* Express.js
 * Node JS
 * Websocket
-* REST API
 
-<strong>Data Science And AI</strong>
+
+* Postgres
+
+### Data Science And AI
 
 * OpenCV
 * TensorFlow
@@ -33,16 +45,16 @@
 * XGBoost
 * Dear PyGui
 
-<strong>Languages</strong>
+### Languages
 
-* Russian (native)
-* English (C1)
-* German (B2)
-* Japanese (N3)
+* Russian <strong>(native)</strong>
+* English <strong>(C1)</strong>
+* German <strong>(B2)</strong>
+* Japanese <strong>(N3)</strong>
 
-<strong>Main Projects</strong>
+### Main Projects
 
-* 
+* Guides Typescripts
 * Snake Learns To Play By Itself
 
 
