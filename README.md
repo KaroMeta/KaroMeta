@@ -10,8 +10,7 @@
 </div>
 
 
-
-### Everything that below are used in my projects.
+<h3 align="center">Everything that below are used in my projects.</h3>
 
 <h3 align="center">Frontend</h3>
 
